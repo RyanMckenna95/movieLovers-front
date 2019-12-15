@@ -17,7 +17,7 @@ neither a movie or review can be deleted with anything greater then 0 in their s
 Delete movie or show had a path */show/:id/:stock* this was as the deleteMove and deleteShow could only work if the stock was empty as it is for site maintance and they would not want to delete a movie they still have in stock.
 
 ### persistense
-I had a mongodb database and connect to mongodb.atlas
+I had a mongodb database
 
 ### git
 used github for my repo
